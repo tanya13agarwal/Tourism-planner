@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Tourism Planner</h1>
 
-<p id="description">Welcome to Tourism Planner, your ultimate travel companion for personalized itineraries. Enter the cities you wish to visit, your budget, and preferences, and we'll generate a customized travel plan. Easily add or remove cities to fit your interests and manage your budget with our cost estimates. Discover detailed descriptions of each city, including attractions, dining, and local tips. Start planning your dream trip today and turn your travel aspirations into reality.</p>
+<p id="description">Welcome to Tourism Planner, your ultimate travel companion for creating personalized travel itineraries. Our website is designed to make trip planning effortless and enjoyable, catering to solo travelers, couples, or groups. Our platform helps you stay within budget by calculating estimated costs and offering detailed descriptions of each city, including top attractions, cultural highlights, dining options, and local tips. Begin planning your dream trip today with Tourism Planner, and turn your travel aspirations into reality with ease and precision.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-green" alt="shields”>
